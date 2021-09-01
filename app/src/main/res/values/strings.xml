@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">weekly icon</string>
+    <string name="test">50°</string>
+    <string name="humidity">Humidity</string>
+    <string name="feels">Feels</string>
+    <string name="wind">Wind</string>
+</resources>
